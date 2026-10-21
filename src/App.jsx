@@ -1,6 +1,6 @@
 
 import React, { useMemo, useState } from "react";
-import "./app.css";
+import "./App.css";
 
 const VALID_MULTIPLIERS = [1, 3, 5, 7, 9, 11, 15, 17, 19, 21, 23, 25];
 const DEMO_MESSAGE = "MEET ME AT THE LIBRARY";
